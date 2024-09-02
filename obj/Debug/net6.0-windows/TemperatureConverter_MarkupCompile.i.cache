@@ -1,18 +1,18 @@
-﻿MVVMExample
-
+﻿TemperatureConverter
+1.0.0.0
 
 winexe
 C#
 .cs
 C:\Users\ranji\source\repos\MVVMExample\obj\Debug\net6.0-windows\
-MVVMExample
+TemperatureConverter
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\ranji\source\repos\MVVMExample\App.xaml
 11407045341
 
-41538850687
+62015886944
 194-1976662911
 MainWindow.xaml;
 
